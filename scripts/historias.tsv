@@ -1,0 +1,17 @@
+id	titulo	epic	prioridad	puntos	valor	orden	sprint
+HU-01	HU-01: Definir el catálogo de tipos de trámite con sus plazos legales	Registro	Must	3	4	1	si
+HU-02	HU-02: Registrar una solicitud y obtener un número de seguimiento	Registro	Must	5	5	2	si
+HU-08	HU-08: Iniciar sesión con un rol y ver solo lo que corresponde al rol	Gestión	Must	5	4	3	si
+HU-03	HU-03: Adjuntar documentos a la solicitud y recibir aviso de archivos inválidos	Registro	Must	3	4	4	si
+HU-05	HU-05: Consultar el estado de una solicitud con el número de seguimiento	Seguimiento	Must	3	5	5	si
+HU-10	HU-10: Derivar la solicitud a la dependencia competente	Gestión	Must	5	5	6	no
+HU-11	HU-11: Registrar observaciones en una bitácora auditable	Gestión	Must	3	4	7	no
+HU-09	HU-09: Trabajar con una bandeja de solicitudes ordenada por vencimiento	Gestión	Should	3	4	8	no
+HU-04	HU-04: Registrar una solicitud presencial en nombre del ciudadano	Registro	Should	3	3	9	no
+HU-06	HU-06: Ver la línea de tiempo pública de la solicitud	Seguimiento	Should	2	3	10	no
+HU-07	HU-07: Conocer el plazo estimado y el responsable actual de la solicitud	Seguimiento	Should	2	4	11	no
+HU-12	HU-12: Resolver la solicitud y comunicar la respuesta final	Gestión	Should	3	5	12	no
+HU-13	HU-13: Notificar al ciudadano los cambios relevantes de su solicitud	Notificaciones	Should	3	4	13	no
+HU-14	HU-14: Alertar vencimientos próximos y escalar casos demorados	Notificaciones	Could	5	3	14	no
+HU-15	HU-15: Obtener reportes por tipo, estado, dependencia y cumplimiento de plazos	Reportes	Could	5	3	15	no
+HU-16	HU-16: Exportar la bitácora completa para una auditoría externa	Reportes	Won't	3	2	16	no
